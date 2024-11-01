@@ -96,7 +96,6 @@ CCTV风云剧场,http://111.225.115.25:808/tsfile/live/1034_1.m3u8?key=txiptv&pl
 CCTV风云音乐,http://111.225.115.25:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 🛰｜卫视频道,#genre#
 三沙卫视,http://111.225.114.240:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视,http://221.205.129.229:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://111.225.115.25:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://111.225.114.240:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://118.248.169.139:8088/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -107,6 +106,7 @@ CCTV风云音乐,http://111.225.115.25:808/tsfile/live/1036_1.m3u8?key=txiptv&pl
 东方卫视,http://111.225.114.240:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://223.159.11.172:8099/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://36.40.237.195:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://221.205.129.229:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://111.225.115.25:808/tsfile/live/0119_2.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://223.159.11.172:8099/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://111.225.114.240:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
